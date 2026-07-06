@@ -1,1 +1,23 @@
+# Environment
 .env
+
+# Ignore datasets
+Datasets/
+
+# Ignore CSV files
+*.csv
+
+# Ignore zip files
+*.zip
+
+# Ignore parquet
+*.parquet
+
+# Ignore logs
+*.log
+
+# Python
+__pycache__/
+
+# VS Code
+.vscode/
